@@ -21,12 +21,10 @@ Here are some technologies and tools I’m familiar with:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jigjigboks&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
-## 🌱 My Contributions
-
-- 🌟 I have contributed to several open-source projects. Check them here in my [Repositories](https://github.com/jigjigboks?tab=repositories).
 
 ## 📈 Recent Activity
 
+- 02/12/2025 Just published a new Github Page of a Linktree of all my socials.
 <!--START_SECTION:activity-->
 <!-- Add your GitHub activity here to show your recent work, like issues, pull requests, etc. -->
 <!--END_SECTION:activity-->

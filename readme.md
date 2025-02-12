@@ -1,7 +1,3 @@
-Sure! Here’s a simple yet effective README content template for a GitHub profile:
-
----
-
 # Hi there, I'm German Emmanuel A. Boceta 👋
 
 Welcome to my GitHub profile!
@@ -29,8 +25,7 @@ Here are some technologies and tools I’m familiar with:
 
 ## 🌱 My Contributions
 
-- 🌟 I have contributed to several open-source projects. Check them out in my [Repositories](https://github.com/YourGitHubUsername?tab=repositories).
-- 🔄 I also enjoy reviewing pull requests and helping others improve their code.
+- 🌟 I have contributed to several open-source projects. Check them here in my [Repositories](https://github.com/jigjigboks?tab=repositories).
 
 ## 📈 Recent Activity
 
@@ -38,6 +33,3 @@ Here are some technologies and tools I’m familiar with:
 <!-- Add your GitHub activity here to show your recent work, like issues, pull requests, etc. -->
 <!--END_SECTION:activity-->
 
----
-
-Feel free to modify and personalize it with more sections that reflect your unique journey and contributions!
